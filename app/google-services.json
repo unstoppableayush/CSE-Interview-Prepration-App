@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "138643950098",
+    "project_id": "ayush-s-project-73011",
+    "storage_bucket": "ayush-s-project-73011.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138643950098:android:7325aa6cbe2ffca6a866cb",
+        "android_client_info": {
+          "package_name": "com.example.ayushsproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138643950098-7r3bs2njrg88cl69ek5vt1ej1875plc7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-X_xh92BEBowhKX0Sx44KZktE9uIT0xY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "138643950098-7r3bs2njrg88cl69ek5vt1ej1875plc7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
